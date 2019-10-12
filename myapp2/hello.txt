@@ -1,0 +1,47 @@
+hello. hello. hello. hello. helliiiiiio. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. 
+
+<!--
+
+
+// 選択系（ビジュアルモード）
+// v: 文字単位のビジュアルモード
+// V: 行単位
+// CTRL+v: 矩形単位
+// gg V G: 全選択
+
+
+// カット（削除）、コピー、貼り付け
+
+// カット（削除） x dd 3dd
+// 貼り付け p
+// コピー yy 3yy
+
+ノーマルモード
+x（DELETEキーとおなじ）
+行単位の削除 dd
+3行まとめて消したい 3dd
+カットしたものを貼り付けたいとき p
+コピー yy （ヤンク）
+
+// 検索 /
+ノーマルモードで/ + 検索語
+// n: 下方向に検索、N: 上方向に検索
+
+// *:下方向 #:上方向 :いまカーソルがある位置の単語を検索
+
+
+
+
+--!>
+
+
+
+
+if (number == 1) {
+	
+}
+
+
+
+
+END
