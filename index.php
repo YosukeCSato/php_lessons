@@ -19,4 +19,6 @@ define("MY_EMAIL", "ythe@mail.com");
 
 $msg = "hello from the TOP!";
 echo $msg;
-var_dump($msg)
+var_dump($msg{)
+
+?>
