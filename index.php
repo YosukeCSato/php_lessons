@@ -19,7 +19,7 @@ class User {
 	}
 	
 	public static function getMessage() {
-		echo "hello from static method;
+		echo "hello from static method";
 	}
 
 }
