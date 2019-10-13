@@ -25,7 +25,7 @@ class AdminUser extends User {
 
 $tom = new User("Tom");
 $bob = new User("Bob");
-$steve = new Admin("Steve");
+$steve = new AdminUser("Steve");
 
 $bob->sayHi();
 $steve->sayHi();
